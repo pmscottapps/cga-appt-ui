@@ -1,0 +1,9 @@
+
+                  
+              _   
+ _ __   ___ _| |_ 
+| '_ \ / __|_   _|	${application.title}
+| | | | (__  |_|  
+|_| |_|\___|      	${application.version}
+                  
+                  
