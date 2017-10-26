@@ -4,7 +4,7 @@
 
 	<groupId>pl.ncplus</groupId>
 	<artifactId>cga-appt-ui</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<name>cga-appt-ui</name>
