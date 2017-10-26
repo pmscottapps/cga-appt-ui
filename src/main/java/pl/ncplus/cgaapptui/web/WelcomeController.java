@@ -24,7 +24,7 @@ public class WelcomeController {
         String title = "Aplikacja testowa";
 
         String text = "...";
-        text = new StringBuilder(text).append("").toString();
+        text = new StringBuilder(text).append("+").toString();
         
         String app = applicationName;
         String version = buildVersion;
